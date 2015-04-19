@@ -1,0 +1,25 @@
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/ant-build/FastTip.ap_ \
+ : /home/son/RAILS-dev/Phonegap/fastip/platforms/android/res/drawable/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/res/drawable-mdpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/res/drawable-hdpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/res/drawable-ldpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/res/values/strings.xml \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/res/xml/config.xml \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/res/drawable-xhdpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/ant-build/res/drawable/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/ant-build/res/drawable-mdpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/ant-build/res/drawable-hdpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/ant-build/res/drawable-ldpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/ant-build/res/drawable-xhdpi/icon.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/_where-is-www.txt \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/cordova_plugins.js \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/index.html \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/js \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/cordova.js \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/css \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/img \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/js/index.js \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/css/index.css \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/assets/www/img/logo.png \
+/home/son/RAILS-dev/Phonegap/fastip/platforms/android/ant-build/AndroidManifest.xml \
